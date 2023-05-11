@@ -1,0 +1,10 @@
+C:\Users\x\Desktop\Network Task\Server\bin\Debug\Server.exe.config
+C:\Users\x\Desktop\Network Task\Server\bin\Debug\Server.exe
+C:\Users\x\Desktop\Network Task\Server\bin\Debug\Server.pdb
+C:\Users\x\Desktop\Network Task\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\x\Desktop\Network Task\Server\obj\Debug\Server.ServerForm.resources
+C:\Users\x\Desktop\Network Task\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\x\Desktop\Network Task\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\x\Desktop\Network Task\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\x\Desktop\Network Task\Server\obj\Debug\Server.exe
+C:\Users\x\Desktop\Network Task\Server\obj\Debug\Server.pdb
